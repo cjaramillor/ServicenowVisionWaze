@@ -42,7 +42,7 @@
         <update_guid_history>bfaaa6cfbd66c050501566b92fdea7c0:519275065</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Record deleted 29-01-2020 11:00:23">2fae2ec3dba6c0502f5861f74b9619bf</sys_audit_delete>
+        <sys_audit_delete display_value="Registro eliminado 29-01-2020 11:00:23">2fae2ec3dba6c0502f5861f74b9619bf</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>slx.mb</sys_created_by>
         <sys_created_on>2020-01-29 14:00:23</sys_created_on>
